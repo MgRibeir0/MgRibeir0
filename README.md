@@ -2,11 +2,10 @@
 
 Im a WIP 🤖 bot developer at [Discord](https://discord.com)
 
-19y, 🤓 geek, 🎮 gamer and ~~💻 Stackoverflow copypaster~~ 👨‍💻 programmer
+19y, 🤓 geek, 🎮 gamer and 👨‍💻 programmer
 
 System analysis and development at [Fatec Rubens Lara](https://fatecrl.edu.br)
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mgribeiro&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
 
