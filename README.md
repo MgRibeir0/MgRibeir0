@@ -1,15 +1,6 @@
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<img src="https://img.shields.io/badge/Age-<span id="age"></span>-blueviolet">
-
 🚀 Fullstack Developer | 🧠 Lifelong Learner | 🛠️ Building Scalable Solutions
-
-<script>
-const birthDate = new Date(2002, 1, 23);
-const ageDifMs = Date.now() - birthDate.getTime();
-const ageDate = new Date(ageDifMs);
-document.getElementById('age').innerHTML = Math.abs(ageDate.getUTCFullYear() - 1970);
-</script>
 
 ...
 
