@@ -2,7 +2,7 @@
 
 🚀 Fullstack Developer | 🧠 Lifelong Learner | 🛠️ Building Scalable Solutions
 
-...
+---
 
 👨💻 Tech enthusiast passionate about creating robust web and mobile applications  
 🎮 When not coding, you'll find me exploring virtual worlds  
