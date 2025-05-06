@@ -34,6 +34,13 @@
 
 ---
 
+### 💻 Latest Deploys
+
+- **Fullfiber**: A network provider located in Sorocaba. fullfiber.com.br
+- **Força Maior Transporte**: A private transportation service located in Santos. forcamaiortransporte.com.br
+
+---
+
 ### 📚 Education
 
 🎓 Graduated in System Analysis and Development  
